@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', 'Nunito', 'Segoe UI', 'Arial', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  background-color: #1f1f2e;
+  color: #e0e0e0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: auto;
+  text-rendering: optimizeLegibility;
+}
+
+code {
+  font-family: 'Fira Code', 'Consolas', 'Courier', monospace;
+  font-size: 0.95em;
+  color: #ffca3a;
+  background-color: #2b2b3d;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
